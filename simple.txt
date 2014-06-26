@@ -1,2 +1,2 @@
-simple text file
+simple textedited file
 simple text2
